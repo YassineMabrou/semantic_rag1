@@ -1,0 +1,12 @@
+# Semantic RAG - Rose Blanche Group
+# Python dependencies
+
+# Core ML/NLP
+sentence-transformers==2.2.2
+numpy>=1.24.0
+
+# Database
+psycopg2-binary>=2.9.9
+
+# Optional: For better vector operations
+# pgvector>=0.2.0
